@@ -54,7 +54,7 @@ body{
 
 }
 .example{
-    height: 900px;
+    height: 120vh;
     padding: 1.5em;
     text-align: justify;
 }
