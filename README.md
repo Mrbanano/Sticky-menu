@@ -7,7 +7,7 @@
 <br>
 </p>
 
-[Website](https://mrbanano.github.io/sticky-menu/)
+[Website](https://mrbanano.github.io/Sticky-menu/)
 
  **Sticky-menu** is a static website developed with `HTML5` ,`CSS3` and `JS` with hero page and fixed menu positioned at the bottom of the image, when you scroll down, the menu will be fixed at the top of the site and when you upload the menu, it will gradually return to its initial position, it is a website adapted for mobile devices
 <p align="center">
